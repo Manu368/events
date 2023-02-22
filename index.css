@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bg-container01 {
+    background-color: #00bafc;
+    padding: 20px;
+    text-align: center;
+    height:100vh;
+}
+.userinput {
+    border-radius:5px;
+    text-align: center;
+    border-width: 0px;
+}
+.image01 {
+    width:200px;
+    height:150px;
+    margin-top: 30px;
+}
+.para01 {
+    font-size:50px;
+    color:#fff;
+}
